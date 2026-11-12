@@ -122253,6 +122253,376 @@
         "diff_bassghl": 0
     },
     {
+        "artist": "Led Zeppelin",
+        "name": "Dancing Days",
+        "year": "1973",
+        "album": "Houses of the Holy",
+        "charter": "Sygenysis + Nunchuck",
+        "lenght": "3:49",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Rock",
+        "playable_levels": {
+            "Drums": [
+                "Easy",
+                "Medium",
+                "Hard",
+                "Expert"
+            ],
+            "Pro Drums": [
+                "Easy",
+                "Medium",
+                "Hard",
+                "Expert"
+            ],
+            "Bass": [
+                "Easy",
+                "Medium",
+                "Hard",
+                "Expert"
+            ],
+            "Guitar": [
+                "Easy",
+                "Medium",
+                "Hard",
+                "Expert"
+            ],
+            "Keys": [
+                "Easy"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_rhythm": -1,
+        "diff_bass": 1,
+        "diff_guitar_coop": -1,
+        "diff_drums": 2,
+        "diff_drums_real": 2,
+        "diff_keys": 1
+    },
+    {
+        "artist": "Led Zeppelin",
+        "name": "Dazed and Confused",
+        "year": "1969",
+        "album": "Led Zeppelin",
+        "charter": "Sygenysis",
+        "lenght": "6:31",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Hard Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_rhythm": -1,
+        "diff_bass": -1,
+        "diff_guitar_coop": -1,
+        "diff_drums": -1,
+        "diff_drums_real": -1,
+        "diff_keys": -1
+    },
+    {
+        "artist": "Led Zeppelin",
+        "name": "Fool In The Rain",
+        "year": "1990",
+        "album": "Led Zeppelin Box Set (Disc 4)",
+        "charter": "Trunks252, Inventor211",
+        "lenght": "6:23",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Bass": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ],
+            "Pro Drums": [
+                "Expert"
+            ],
+            "Keys": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_rhythm": -1,
+        "diff_bass": 3,
+        "diff_guitar_coop": -1,
+        "diff_drums": 4,
+        "diff_drums_real": 4,
+        "diff_keys": 4
+    },
+    {
+        "artist": "Led Zeppelin",
+        "name": "Heartbreaker",
+        "year": "1990",
+        "album": "Led Zeppelin Box Set (Disc 1)",
+        "charter": "Trunks252",
+        "lenght": "4:21",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ],
+            "Drums": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ],
+            "Bass": [
+                "Expert"
+            ],
+            "Pro Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4,
+        "diff_rhythm": -1,
+        "diff_bass": 4,
+        "diff_guitar_coop": -1,
+        "diff_drums": 3,
+        "diff_drums_real": 3,
+        "diff_keys": -1
+    },
+    {
+        "artist": "Led Zeppelin",
+        "name": "Hey, Hey What Can I Do",
+        "year": "1970",
+        "album": "CODA",
+        "charter": "ZekeAF",
+        "lenght": "3:59",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Rhythm": [
+                "Expert"
+            ],
+            "Bass": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ],
+            "Keys": [
+                "Expert"
+            ],
+            "Guitar-Live": [
+                "Expert"
+            ],
+            "Bass-Live": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4,
+        "diff_rhythm": 0,
+        "diff_bass": 0,
+        "diff_drums": 0,
+        "diff_keys": 0,
+        "diff_guitarghl": 0,
+        "diff_bassghl": 0
+    },
+    {
+        "artist": "Led Zeppelin",
+        "name": "Over the Hills and Far Away",
+        "year": "1990",
+        "album": "Led Zeppelin Box Set (Disc 2)",
+        "charter": "Trunks252",
+        "lenght": "4:49",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_rhythm": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Led Zeppelin",
+        "name": "Ramble On",
+        "year": "1990",
+        "album": "Led Zeppelin Box Set (Disc 1)",
+        "charter": "Trunks252",
+        "lenght": "4:23",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Bass": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4,
+        "diff_rhythm": -1,
+        "diff_bass": 3,
+        "diff_guitar_coop": -1,
+        "diff_drums": -1,
+        "diff_drums_real": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1,
+        "diff_rhythm_ghl": -1,
+        "diff_guitar_coop_ghl": -1
+    },
+    {
+        "artist": "Led Zeppelin",
+        "name": "Stairway to Heaven",
+        "year": "1990",
+        "album": "Led Zeppelin Box Set (Disc 2)",
+        "charter": "Trunks252",
+        "lenght": "8:03",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_rhythm": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Led Zeppelin",
+        "name": "Stairway To Heaven",
+        "year": "1971",
+        "album": "Led Zeppelin IV",
+        "charter": "4EverfreeBrony",
+        "lenght": "8:09",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Classic Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ],
+            "Drums": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ],
+            "Bass": [
+                "Expert"
+            ],
+            "Pro Drums": [
+                "Expert"
+            ],
+            "Keys": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 5,
+        "diff_rhythm": -1,
+        "diff_bass": 3,
+        "diff_guitar_coop": -1,
+        "diff_drums": 4,
+        "diff_drums_real": 4,
+        "diff_keys": 2
+    },
+    {
+        "artist": "Led Zeppelin",
+        "name": "The Song Remains the Same",
+        "year": "1990",
+        "album": "Led Zeppelin Box Set (Disc 3)",
+        "charter": "Trunks252",
+        "lenght": "5:29",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_rhythm": -1,
+        "diff_bass": -1,
+        "diff_guitar_coop": -1,
+        "diff_drums": -1,
+        "diff_drums_real": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1,
+        "diff_rhythm_ghl": -1,
+        "diff_guitar_coop_ghl": -1
+    },
+    {
+        "artist": "Led Zeppelin",
+        "name": "Whole Lotta Love",
+        "year": "1969",
+        "album": "Led Zeppelin II",
+        "charter": "4EverfreeBrony",
+        "lenght": "5:24",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Classic Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ],
+            "Drums": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ],
+            "Bass": [
+                "Expert"
+            ],
+            "Pro Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4,
+        "diff_rhythm": -1,
+        "diff_bass": 3,
+        "diff_guitar_coop": -1,
+        "diff_drums": 4,
+        "diff_drums_real": 4,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1,
+        "diff_rhythm_ghl": -1,
+        "diff_guitar_coop_ghl": -1
+    },
+    {
         "artist": "FROST*",
         "name": "Black Light Machine",
         "year": "2006",
@@ -130524,6 +130894,3008 @@
         "diff_keys": -1,
         "diff_guitarghl": -1,
         "diff_bassghl": -1
+    },
+    {
+        "artist": "36 Crazyfists",
+        "name": "Slit Wrist Theory",
+        "year": "2002",
+        "album": "Bitterness the Star",
+        "charter": "Zantor",
+        "lenght": "4:02",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        }
+    },
+    {
+        "artist": "Alestorm",
+        "name": "Chomp Chomp",
+        "year": "2020",
+        "album": "Curse Of The Crystal Coconut",
+        "charter": "Zantor",
+        "lenght": "3:34",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Pirate Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Alpha Wolf",
+        "name": "Bleed 4 U",
+        "year": "2020",
+        "album": "A Quiet Place to Die",
+        "charter": "Zantor",
+        "lenght": "3:59",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Progressive Metalcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Alpha Wolf",
+        "name": "Restricted (R18+)",
+        "year": "2020",
+        "album": "A Quiet Place To Die",
+        "charter": "Zantor",
+        "lenght": "3:17",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metalcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Animata",
+        "name": "Maniac",
+        "year": "2020",
+        "album": "Maniac",
+        "charter": "Zantor",
+        "lenght": "4:17",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Progressive Metalcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Apple Sauce",
+        "name": "Guerrilla Kebab",
+        "year": "2026",
+        "album": "Hybris",
+        "charter": "Zantor",
+        "lenght": "3:31",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Archspire",
+        "name": "Involuntary Doppelgänger",
+        "year": "2017",
+        "album": "Relentless Mutation",
+        "charter": "Zantor",
+        "lenght": "3:48",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Technical Death Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 5
+    },
+    {
+        "artist": "Ashes Remain",
+        "name": "Come Alive",
+        "year": "2011",
+        "album": "What I've Become",
+        "charter": "iDems HD + Zantor",
+        "lenght": "3:43",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Hard Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Ashes Remain",
+        "name": "End Of Me",
+        "year": "2011",
+        "album": "What I've Become",
+        "charter": "Zantor",
+        "lenght": "2:51",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Hard Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Asking Alexandria",
+        "name": "Don't Pray For Me",
+        "year": "2013",
+        "album": "From Death To Destiny",
+        "charter": "Zantor",
+        "lenght": "4:41",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metalcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Avenged Sevenfold",
+        "name": "Save Me",
+        "year": "2010",
+        "album": "Nightmare",
+        "charter": "Zantor",
+        "lenght": "10:55",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 5
+    },
+    {
+        "artist": "Avenged Sevenfold",
+        "name": "To End The Rapture",
+        "year": "2001",
+        "album": "Sounding the Seventh Trumpet",
+        "charter": "Zantor",
+        "lenght": "1:24",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 5
+    },
+    {
+        "artist": "Berried Alive",
+        "name": "Figsaw",
+        "year": "2020",
+        "album": "Figsaw - Single",
+        "charter": "Zantor",
+        "lenght": "2:48",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Djent",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 5,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Black Veil Brides",
+        "name": "Fallen Angels",
+        "year": "2011",
+        "album": "Set The World On Fire",
+        "charter": "Zantor",
+        "lenght": "3:46",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Hard Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Black Veil Brides",
+        "name": "Knives and Pens",
+        "year": "2020",
+        "album": "Re-Stitch These Wounds",
+        "charter": "Zantor",
+        "lenght": "4:14",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Bulb",
+        "name": "Archon Test",
+        "year": "2020",
+        "album": "Archives: Volume 8",
+        "charter": "Zantor",
+        "lenght": "1:12",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal / Djent",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Bulb",
+        "name": "Beating A...",
+        "year": "2020",
+        "album": "Archives: Volume 8",
+        "charter": "Zantor",
+        "lenght": "1:10",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal / Djent",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Cold Night For Alligators",
+        "name": "Thin Line",
+        "year": "2022",
+        "album": "The Hindsight Notes",
+        "charter": "Zantor",
+        "lenght": "4:29",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1
+    },
+    {
+        "artist": "Colosseums",
+        "name": "Divided",
+        "year": "2020",
+        "album": "Single",
+        "charter": "Zantor",
+        "lenght": "3:36",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Alternate Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Dance Gavin Dance",
+        "name": "All The Way Down",
+        "year": "2025",
+        "album": "Pantheon",
+        "charter": "Zantor",
+        "lenght": "4:27",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Post-Hardcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Dance Gavin Dance",
+        "name": "It's Safe To Say You Dig The Backseat",
+        "year": "2007",
+        "album": "Downtown Battle Mountain",
+        "charter": "Zantor/<color=#bdb022>Refewze</color>",
+        "lenght": "5:14",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ],
+            "Drums": [
+                "Expert"
+            ],
+            "Rhythm": [
+                "Expert"
+            ],
+            "Bass": [
+                "Expert"
+            ],
+            "Keys": [
+                "Expert"
+            ],
+            "Guitar-Live": [
+                "Expert"
+            ],
+            "Bass-Live": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_rhythm": 0,
+        "diff_bass": 0,
+        "diff_drums": 3,
+        "diff_keys": 0,
+        "diff_guitarghl": 0,
+        "diff_bassghl": 0
+    },
+    {
+        "artist": "Dance Gavin Dance",
+        "name": "Mignight at McGuffy's",
+        "year": "2025",
+        "album": "Pantheon",
+        "charter": "Zantor",
+        "lenght": "4:11",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Post-Hardcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Dance Gavin Dance",
+        "name": "Speed Demon",
+        "year": "2024",
+        "album": "Speed Demon",
+        "charter": "Zantor",
+        "lenght": "3:12",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Post-Hardcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Dance Gavin Dance",
+        "name": "Trap Door",
+        "year": "2025",
+        "album": "Pantheon",
+        "charter": "Zantor",
+        "lenght": "4:23",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Post-Hardcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Darknet",
+        "name": "Flames",
+        "year": "2016",
+        "album": "Self-Titled",
+        "charter": "Zantor",
+        "lenght": "2:49",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Nu Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Darknet",
+        "name": "Life.exe",
+        "year": "2016",
+        "album": "Self-Titled",
+        "charter": "Zantor",
+        "lenght": "4:03",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Nu Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Darknet",
+        "name": "Narcotics",
+        "year": "2016",
+        "album": "Self-Titled",
+        "charter": "Zantor",
+        "lenght": "0:51",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Nu Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Darknet",
+        "name": "Nocturnal",
+        "year": "2016",
+        "album": "Self-Titled",
+        "charter": "Zantor",
+        "lenght": "2:51",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Nu Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Darknet",
+        "name": "Sedate Me",
+        "year": "2016",
+        "album": "Darknet",
+        "charter": "Zantor",
+        "lenght": "2:55",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Nu Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Decapitated",
+        "name": "Anger Line",
+        "year": "2019",
+        "album": "Anticult",
+        "charter": "Zantor",
+        "lenght": "3:46",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Technical Death Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 5,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Decapitated",
+        "name": "Spheres Of Madness",
+        "year": "2002",
+        "album": "Nihility",
+        "charter": "Zantor",
+        "lenght": "5:08",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Technical Death Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Deep In Hate",
+        "name": "Over The Edge Of Perdition",
+        "year": "2018",
+        "album": "Disobey",
+        "charter": "Zantor",
+        "lenght": "3:25",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Death Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": 5,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Downplay",
+        "name": "Hated You From Hello",
+        "year": "2012",
+        "album": "Radiocalypse",
+        "charter": "Zantor",
+        "lenght": "2:40",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Elements of Creation",
+        "name": "Borderline",
+        "year": "2021",
+        "album": "Borderline (Single)",
+        "charter": "Zantor",
+        "lenght": "3:11",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "ERRA",
+        "name": "Cure",
+        "year": "2024",
+        "album": "Cure",
+        "charter": "Zantor",
+        "lenght": "3:47",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Progressive Metalcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "ERRA",
+        "name": "Rumor Of Light",
+        "year": "2024",
+        "album": "Cure",
+        "charter": "Zantor",
+        "lenght": "4:04",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Progressive Metalcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "Escape The Fate",
+        "name": "Ashley",
+        "year": "2008",
+        "album": "This War Is Ours",
+        "charter": "Zantor",
+        "lenght": "3:27",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "Fairyland",
+        "name": "Fight For Your King",
+        "year": "2006",
+        "album": "Of Wars in Osyhria",
+        "charter": "Zantor",
+        "lenght": "5:43",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Power Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Fall Out Boy",
+        "name": "I Don't Care",
+        "year": "2008",
+        "album": "Folie à Deux",
+        "charter": "Zantor",
+        "lenght": "3:36",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "Fast Food Rockers",
+        "name": "Fast Food Song",
+        "year": "2003",
+        "album": "It's Never Easy Being Cheesy",
+        "charter": "Zantor",
+        "lenght": "3:10",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Novelty",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1
+    },
+    {
+        "artist": "Five Finger Death Punch",
+        "name": "Mama Said Knock You Out (feat. Tech N9ne)",
+        "year": "2013",
+        "album": "The Wrong Side Of Heaven And The The Righteous Side Of Hell, Volume 1",
+        "charter": "Zantor",
+        "lenght": "2:47",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Lucas Cruikshank",
+        "name": "Christmas Cash",
+        "year": "2009",
+        "album": "It's Hackin' Christmas With Fred",
+        "charter": "Zantor",
+        "lenght": "3:25",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Utter Hell",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 69
+    },
+    {
+        "artist": "Grandaddy",
+        "name": "A.M. 180",
+        "year": "2008",
+        "album": "Under The Western Freeway",
+        "charter": "Zantor",
+        "lenght": "3:22",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Alternative",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Harkla",
+        "name": "Dispatch III",
+        "year": "2020",
+        "album": "Ruktur",
+        "charter": "Zantor",
+        "lenght": "3:25",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Djent",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Harkla",
+        "name": "Ruktur",
+        "year": "2020",
+        "album": "Ruktur",
+        "charter": "Zantor",
+        "lenght": "4:57",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Djent",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Hiromi",
+        "name": "Brand New Day",
+        "year": "2011",
+        "album": "Move",
+        "charter": "Zantor",
+        "lenght": "6:59",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Jazz",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 6
+    },
+    {
+        "artist": "Hiromi",
+        "name": "Move",
+        "year": "2012",
+        "album": "Move",
+        "charter": "Zantor, <color=#941ef5>Fi</color><color=#b037f6>gN</color><color=#db4df5>e</color><color=#e963f5>u</color><color=#db4df5>t</color><color=#b037f6>er</color><color=#941ef5>ed</color>",
+        "lenght": "8:29",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Jazz",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 5,
+        "diff_drums": 6
+    },
+    {
+        "artist": "Hollywood Undead",
+        "name": "Lion",
+        "year": "2013",
+        "album": "Notes From The Underground",
+        "charter": "Zantor",
+        "lenght": "3:57",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Hard Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "HRFTR",
+        "name": "LETHE",
+        "year": "2020",
+        "album": "NEURASTHENIA",
+        "charter": "Zantor",
+        "lenght": "3:25",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Icarus The Owl",
+        "name": "A Thousand Miles (Vanessa Carlton Cover)",
+        "year": "2017",
+        "album": "A Thousand Miles (Vanessa Carlton Cover)",
+        "charter": "Zantor",
+        "lenght": "4:00",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Math Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "Icarus The Owl",
+        "name": "Black Fish",
+        "year": "2014",
+        "album": "Icarus The Owl",
+        "charter": "Zantor",
+        "lenght": "3:55",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Progressive Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Icarus The Owl",
+        "name": "Flint And Steel",
+        "year": "2014",
+        "album": "Icarus The Owl",
+        "charter": "Zantor",
+        "lenght": "3:34",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Math Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Icarus The Owl",
+        "name": "Ignore Check Engine Lights",
+        "year": "2014",
+        "album": "Icarus The Owl",
+        "charter": "Zantor",
+        "lenght": "3:53",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Math Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Icarus The Owl",
+        "name": "In Aeternum",
+        "year": "2014",
+        "album": "Icarus The Owl",
+        "charter": "Zantor",
+        "lenght": "3:43",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Math Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "Jingle Cats",
+        "name": "Silent Night",
+        "year": "2008",
+        "album": "N/A",
+        "charter": "Zantor",
+        "lenght": "1:24",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Christmas",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1
+    },
+    {
+        "artist": "Jordan Harris",
+        "name": "Back To The End",
+        "year": "2016",
+        "album": "Azimuth",
+        "charter": "Zantor",
+        "lenght": "5:14",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Jordan Harris",
+        "name": "The Marble Mausoleum",
+        "year": "2016",
+        "album": "Azimuth",
+        "charter": "Zantor",
+        "lenght": "2:34",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Kadinja",
+        "name": "Avec Tiuit Mon Amour",
+        "year": "2019",
+        "album": "Super 90'",
+        "charter": "Zantor",
+        "lenght": "6:52",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal / Djent",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 5,
+        "diff_rhythm": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Kadinja",
+        "name": "Episteme (Acoustic)",
+        "year": "2019",
+        "album": "Super 90'",
+        "charter": "Zantor",
+        "lenght": "4:09",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Acoustic",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_rhythm": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Kadinja",
+        "name": "From The Inside",
+        "year": "2018",
+        "album": "Super 90'",
+        "charter": "Zantor",
+        "lenght": "4:41",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4,
+        "diff_rhythm": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Kadinja",
+        "name": "House Of Cards",
+        "year": "2019",
+        "album": "Super 90'",
+        "charter": "Zantor",
+        "lenght": "3:24",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal / Djent",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_rhythm": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Kadinja",
+        "name": "Icon",
+        "year": "2019",
+        "album": "Super 90'",
+        "charter": "Zantor",
+        "lenght": "4:10",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal / Djent",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_rhythm": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Kadinja",
+        "name": "Strive",
+        "year": "2019",
+        "album": "Super 90'",
+        "charter": "Zantor",
+        "lenght": "3:16",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal / Djent",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 5,
+        "diff_rhythm": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Kadinja",
+        "name": "Super 90' (Album Chart)",
+        "year": "2019",
+        "album": "Super 90'",
+        "charter": "Zantor + Revelsa",
+        "lenght": "51:37",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Progressive Metalcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 5
+    },
+    {
+        "artist": "Kamelot",
+        "name": "Ghost Opera",
+        "year": "2007",
+        "album": "Ghost Opera",
+        "charter": "Zantor",
+        "lenght": "4:01",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Symohonic Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Korn",
+        "name": "Blind",
+        "year": "1994",
+        "album": "Korn",
+        "charter": "Zantor",
+        "lenght": "4:19",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Nu Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1
+    },
+    {
+        "artist": "Koronal",
+        "name": "Disappointing Truth Split Into Two Comforting Lies",
+        "year": "2020",
+        "album": "A Gift of Consciousness",
+        "charter": "Zantor",
+        "lenght": "4:38",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Deathcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Lamb of God",
+        "name": "512",
+        "year": "2015",
+        "album": "Sturm und Drang",
+        "charter": "Zantor",
+        "lenght": "4:45",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Lamb of God",
+        "name": "Blood Of The Scribe",
+        "year": "2004",
+        "album": "Ashes Of The Wake",
+        "charter": "Zantor",
+        "lenght": "4:24",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 5,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Lamb of God",
+        "name": "Ditch",
+        "year": "2022",
+        "album": "Omens",
+        "charter": "Zantor",
+        "lenght": "3:37",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Groove Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4
+    },
+    {
+        "artist": "Lamb of God",
+        "name": "Gomorrah",
+        "year": "2022",
+        "album": "Omens",
+        "charter": "Zantor",
+        "lenght": "4:11",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Groove Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Lamb of God",
+        "name": "Hourglass",
+        "year": "2004",
+        "album": "Ashes of the Wake",
+        "charter": "Zantor",
+        "lenght": "4:00",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4
+    },
+    {
+        "artist": "Lamb of God",
+        "name": "Nevermore",
+        "year": "2022",
+        "album": "Omens",
+        "charter": "Zantor",
+        "lenght": "4:37",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Groove Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Lamb of God",
+        "name": "Now You've Got Something To Die For",
+        "year": "2004",
+        "album": "Ashes Of The Wake",
+        "charter": "Zantor",
+        "lenght": "3:40",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Lamb of God",
+        "name": "Omens",
+        "year": "2022",
+        "album": "Omens",
+        "charter": "Zantor",
+        "lenght": "3:45",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Groove Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Lamb of God",
+        "name": "Omerta",
+        "year": "2004",
+        "album": "Ashes Of The Wake",
+        "charter": "Zantor",
+        "lenght": "4:25",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "Lamb of God",
+        "name": "One Gun",
+        "year": "2004",
+        "album": "Ashes Of The Wake",
+        "charter": "Zantor",
+        "lenght": "4:01",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Lamb of God",
+        "name": "Still Echoes",
+        "year": "2015",
+        "album": "Sturm und Drang",
+        "charter": "Zantor",
+        "lenght": "4:24",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4
+    },
+    {
+        "artist": "Lamb of God",
+        "name": "The Faded Line",
+        "year": "2004",
+        "album": "Ashes of the Wake",
+        "charter": "Zantor",
+        "lenght": "4:37",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4
+    },
+    {
+        "artist": "Lamb of God",
+        "name": "To The Grave",
+        "year": "2022",
+        "album": "Omens",
+        "charter": "Zantor",
+        "lenght": "3:45",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Groove Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Lamb of God",
+        "name": "Vanishing",
+        "year": "2022",
+        "album": "Omens",
+        "charter": "Zantor",
+        "lenght": "4:49",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Groove Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4
+    },
+    {
+        "artist": "Lee McKinney",
+        "name": "The Sun And The Wind",
+        "year": "2019",
+        "album": "Infinite Mind",
+        "charter": "Zantor",
+        "lenght": "3:48",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Leo Moraccholi (feat. Rabea Hannah) - Originally By Coldplay",
+        "name": "In My Place (Metal Cover)",
+        "year": "2018",
+        "album": "N/A",
+        "charter": "Zantor",
+        "lenght": "5:09",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Letterbomb A.D",
+        "name": "Afford Death",
+        "year": "2019",
+        "album": "Letterbomb a.D",
+        "charter": "Zantor",
+        "lenght": "3:01",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Extreme Metal / Hardcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Linkin Park",
+        "name": "A Place for My Head",
+        "year": "2000",
+        "album": "Hybrid Theory",
+        "charter": "Zantor",
+        "lenght": "3:06",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Nu Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1
+    },
+    {
+        "artist": "Linkin Park",
+        "name": "Given Up",
+        "year": "2007",
+        "album": "Minutes To Midnight",
+        "charter": "Zantor",
+        "lenght": "3:09",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Alternative Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Lower Than Atlantis",
+        "name": "Love Someone Else",
+        "year": "2012",
+        "album": "Changing Tune",
+        "charter": "Zantor",
+        "lenght": "2:31",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "Machine Head",
+        "name": "Davidian",
+        "year": "1994",
+        "album": "Burn My Eyes",
+        "charter": "Zantor",
+        "lenght": "4:56",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4
+    },
+    {
+        "artist": "Machine Head",
+        "name": "Old",
+        "year": "1994",
+        "album": "Burn My Eyes",
+        "charter": "Zantor",
+        "lenght": "4:07",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Men Without Hats",
+        "name": "The Safety Dance",
+        "year": "1982",
+        "album": "Rhythm of Youth",
+        "charter": "Zantor",
+        "lenght": "2:44",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "New Wave",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Mercenary",
+        "name": "The Endless Fall",
+        "year": "2009",
+        "album": "Architect of Lies",
+        "charter": "Zantor",
+        "lenght": "5:08",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Miyavi",
+        "name": "Futuristic Love",
+        "year": "2010",
+        "album": "What's My Name?",
+        "charter": "Zantor",
+        "lenght": "4:53",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Funk Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Motionless in White",
+        "name": "Abigail",
+        "year": "2012",
+        "album": "Creatures",
+        "charter": "Zantor",
+        "lenght": "2:54",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metalcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "Motionless In White",
+        "name": "Immaculate Misconception",
+        "year": "2012",
+        "album": "Creatures",
+        "charter": "Zantor",
+        "lenght": "3:50",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metalcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "Motorhead",
+        "name": "King Of Kings",
+        "year": "2006",
+        "album": "N/A",
+        "charter": "Zantor",
+        "lenght": "3:58",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Hard Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Oceano",
+        "name": "Precursor to Enslavement",
+        "year": "2010",
+        "album": "Contaigon",
+        "charter": "Zantor",
+        "lenght": "3:50",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Deathcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Paris Café Society",
+        "name": "Port-Royal",
+        "year": "2013",
+        "album": "French Café: A Parisian Gypsy Jazz Swing Experience",
+        "charter": "Zantor",
+        "lenght": "2:11",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Parisian",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "Polyphia",
+        "name": "87",
+        "year": "2015",
+        "album": "Muse",
+        "charter": "Zantor",
+        "lenght": "4:47",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Polyphia",
+        "name": "ABC (ft. Sophia Black)",
+        "year": "2022",
+        "album": "Remember That You Will Die",
+        "charter": "Zantor",
+        "lenght": "2:34",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Art-Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4
+    },
+    {
+        "artist": "Polyphia",
+        "name": "Amour",
+        "year": "2016",
+        "album": "Renaissance",
+        "charter": "Zantor",
+        "lenght": "3:42",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Polyphia",
+        "name": "Bittersweet",
+        "year": "2016",
+        "album": "Renaissance",
+        "charter": "Zantor",
+        "lenght": "3:54",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Polyphia",
+        "name": "Crush",
+        "year": "2016",
+        "album": "Renaissance",
+        "charter": "Zantor",
+        "lenght": "4:01",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Polyphia",
+        "name": "Culture Shock",
+        "year": "2016",
+        "album": "Renaissance",
+        "charter": "Zantor",
+        "lenght": "4:38",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Polyphia",
+        "name": "Euphoria",
+        "year": "2016",
+        "album": "Renaissance",
+        "charter": "Zantor",
+        "lenght": "4:15",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Polyphia",
+        "name": "Florence",
+        "year": "2016",
+        "album": "Renaissance",
+        "charter": "Zantor",
+        "lenght": "3:12",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Polyphia",
+        "name": "Fuck Around And Find Out",
+        "year": "2022",
+        "album": "Remember That You Will Die",
+        "charter": "Zantor",
+        "lenght": "2:33",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Art-Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "Polyphia",
+        "name": "G.O.A.T",
+        "year": "2018",
+        "album": "New Levels, New Devils",
+        "charter": "Zantor",
+        "lenght": "3:37",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Polyphia",
+        "name": "Icronic",
+        "year": "2017",
+        "album": "The Most Hated",
+        "charter": "Zantor",
+        "lenght": "3:53",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Art-Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4
+    },
+    {
+        "artist": "Polyphia",
+        "name": "Ivory",
+        "year": "2016",
+        "album": "Renaissance",
+        "charter": "Zantor",
+        "lenght": "3:07",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Polyphia",
+        "name": "Loud",
+        "year": "2017",
+        "album": "The Most Hated",
+        "charter": "Zantor",
+        "lenght": "3:58",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Art-Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Polyphia",
+        "name": "Memento Mori",
+        "year": "2022",
+        "album": "Remember That You Will Die",
+        "charter": "Zantor",
+        "lenght": "2:46",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Art-Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Polyphia",
+        "name": "Nightmare",
+        "year": "2016",
+        "album": "Renaissance",
+        "charter": "Zantor",
+        "lenght": "4:07",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Polyphia",
+        "name": "Paradise",
+        "year": "2016",
+        "album": "Renaissance",
+        "charter": "Zantor",
+        "lenght": "4:13",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Polyphia",
+        "name": "So Strange (ft. Cuco)",
+        "year": "2018",
+        "album": "New Devils New Levels",
+        "charter": "Zantor",
+        "lenght": "4:01",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Polyphia",
+        "name": "Storm",
+        "year": "2016",
+        "album": "Renaissance",
+        "charter": "Zantor",
+        "lenght": "3:31",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Polyphia",
+        "name": "The Audacity",
+        "year": "2022",
+        "album": "Remember That You Will Die",
+        "charter": "Zantor",
+        "lenght": "2:25",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Art-Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4
+    },
+    {
+        "artist": "Rob Zombie",
+        "name": "(Go To) California",
+        "year": "2001",
+        "album": "The Sinister Urge",
+        "charter": "Zantor",
+        "lenght": "3:26",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "Sausion",
+        "name": "Hestia",
+        "year": "2017",
+        "album": "Hestia",
+        "charter": "Zantor",
+        "lenght": "4:23",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Sawce",
+        "name": "Good Set",
+        "year": "2019",
+        "album": "Bedtime Stories",
+        "charter": "Zantor",
+        "lenght": "4:12",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Math Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Scale The Summit",
+        "name": "Narrow Salient",
+        "year": "2013",
+        "album": "The Migration",
+        "charter": "Zantor",
+        "lenght": "3:35",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Progressive Metal / Instrumental",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Sentinels",
+        "name": "Embers",
+        "year": "2021",
+        "album": "Collapse By Design",
+        "charter": "Zantor",
+        "lenght": "4:03",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Progressive Deathcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 5
+    },
+    {
+        "artist": "Sia",
+        "name": "My Love",
+        "year": "2006",
+        "album": "The Twilight Saga: Eclipse (Soundtrack)",
+        "charter": "Zantor",
+        "lenght": "5:11",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Film Scores",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Slipknot",
+        "name": "Eyeless",
+        "year": "1999",
+        "album": "Slipknot",
+        "charter": "Zantor",
+        "lenght": "3:58",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Nu Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        }
+    },
+    {
+        "artist": "Social Distortion",
+        "name": "Don't Drag Me Down",
+        "year": "1996",
+        "album": "White Light, White Heat, White Trash",
+        "charter": "Zantor",
+        "lenght": "3:51",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Alternative",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Stefandré",
+        "name": "Panic",
+        "year": "2018",
+        "album": "Panic - Single",
+        "charter": "Zantor",
+        "lenght": "3:33",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Electronic",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Stone Sour",
+        "name": "Through Glass",
+        "year": "2006",
+        "album": "Come What(ever) May",
+        "charter": "Zantor",
+        "lenght": "4:42",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "Thank You Scientist",
+        "name": "Concrete Swan Dive",
+        "year": "2012",
+        "album": "Maps Of Non-Existent Places",
+        "charter": "Zantor",
+        "lenght": "5:50",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Jazz Fusion",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "The Afterimage",
+        "name": "Wrath",
+        "year": "2018",
+        "album": "Eve",
+        "charter": "Zantor",
+        "lenght": "3:49",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Djent",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 6,
+        "diff_rhythm": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "The Clash",
+        "name": "Should I Stay or Should I Go",
+        "year": "1982",
+        "album": "Combat Rock",
+        "charter": "Zantor",
+        "lenght": "3:07",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Punk",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "The Drums & Pipes",
+        "name": "Scotland the Brave",
+        "year": "2008",
+        "album": "Scotland the Brave",
+        "charter": "Zantor",
+        "lenght": "1:35",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Scotland",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "The Ogre Packet Slammers",
+        "name": "All Star",
+        "year": "2019",
+        "album": "Giant Green Destruction",
+        "charter": "Zantor",
+        "lenght": "2:54",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Shrek Slam",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "The Subways",
+        "name": "We Don't Need Money To Have A Good Time",
+        "year": "2011",
+        "album": "Money And Celebrity",
+        "charter": "Zantor",
+        "lenght": "3:13",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Punk",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "They Might Be Giants",
+        "name": "Dig My Grave",
+        "year": "1992",
+        "album": "Apollo 18",
+        "charter": "Zantor",
+        "lenght": "1:09",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Alternative",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "They Might Be Giants",
+        "name": "I Palindrome I",
+        "year": "1992",
+        "album": "Apollo 18",
+        "charter": "Zantor",
+        "lenght": "2:21",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Alternative",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1
+    },
+    {
+        "artist": "They Might Be Giants",
+        "name": "My Evil Twin",
+        "year": "1992",
+        "album": "Apollo 18",
+        "charter": "Zantor",
+        "lenght": "2:37",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Alternative Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "They Might Be Giants",
+        "name": "She's Actual Size",
+        "year": "1992",
+        "album": "Apollo 18",
+        "charter": "Zantor",
+        "lenght": "2:06",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Alternative",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1
+    },
+    {
+        "artist": "Too Close To Touch",
+        "name": "Comatose",
+        "year": "2019",
+        "album": "I'm Hard To Love, But So Are You, Vol. 3",
+        "charter": "Zantor",
+        "lenght": "3:22",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Post-Hardcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "Too Close To Touch",
+        "name": "Nerve Endings",
+        "year": "2015",
+        "album": "Nerve Endings",
+        "charter": "Zantor",
+        "lenght": "3:41",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Post-Hardcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "TWRP (feat Ninja Sex Party)",
+        "name": "Built 4 Love",
+        "year": "2017",
+        "album": "Ladyworld",
+        "charter": "Zantor",
+        "lenght": "3:38",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": -1,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "Unprocessed",
+        "name": "Sacrifice Me",
+        "year": "2024",
+        "album": "Sacrifice Me - Single",
+        "charter": "Zantor, <color=#941ef5>Fi</color><color=#b037f6>gN</color><color=#db4df5>e</color><color=#e963f5>u</color><color=#db4df5>t</color><color=#b037f6>er</color><color=#941ef5>ed</color>",
+        "lenght": "3:55",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Progressive Metalcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4,
+        "diff_drums": 4
+    },
+    {
+        "artist": "Wage War",
+        "name": "Don't Let Me Fade Away",
+        "year": "2017",
+        "album": "Deadweight",
+        "charter": "Zantor",
+        "lenght": "4:06",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metalcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "We Are The Ocean",
+        "name": "All of This Has to End",
+        "year": "2015",
+        "album": "Cutting Our Teeth",
+        "charter": "Zantor",
+        "lenght": "3:26",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Post-Hardcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "We Are The Ocean",
+        "name": "Nothing Good Has Happened Yet",
+        "year": "2009",
+        "album": "Cutting Our Teeth",
+        "charter": "Zantor",
+        "lenght": "3:37",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Post-Hardcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "We Are The Ocean",
+        "name": "Playing My Heart",
+        "year": "2011",
+        "album": "Cutting Our Teeth",
+        "charter": "Zantor",
+        "lenght": "3:10",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Post-Hardcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1
+    },
+    {
+        "artist": "We Are The Ocean",
+        "name": "Ready for the Fall",
+        "year": "2011",
+        "album": "Cutting Our Teeth",
+        "charter": "Zantor",
+        "lenght": "4:50",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Post-Hardcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "We Are The Ocean",
+        "name": "The Waiting Room",
+        "year": "2011",
+        "album": "Go Now and Live",
+        "charter": "Zantor",
+        "lenght": "3:35",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Post-Hardcore",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "You Me At Six",
+        "name": "Back Again",
+        "year": "2018",
+        "album": "VI",
+        "charter": "Zantor",
+        "lenght": "2:55",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert",
+                "Hard",
+                "Medium",
+                "Easy"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_bass": -1,
+        "diff_drums": -1,
+        "diff_keys": -1,
+        "diff_guitarghl": -1,
+        "diff_bassghl": -1
+    },
+    {
+        "artist": "You Me At Six",
+        "name": "Loverboy",
+        "year": "2011",
+        "album": "Sinners Never Sleep",
+        "charter": "Zantor",
+        "lenght": "3:18",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Rock",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2
+    },
+    {
+        "artist": "Zantor",
+        "name": "Zantor's Charting Advert",
+        "year": "2023",
+        "album": "Zantor's Charting Advert",
+        "charter": "Zantor",
+        "lenght": "1:01",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Djent",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Zdob şi Zdub",
+        "name": "Trenulețul",
+        "year": "2022",
+        "album": "Trenulețul",
+        "charter": "Zantor",
+        "lenght": "2:55",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Folk",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 5
     },
     {
         "artist": "3-UP",
@@ -229080,6 +232452,817 @@
         "diff_keys": -1,
         "diff_guitarghl": -1,
         "diff_bassghl": -1
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Look to Windward",
+        "year": "2025",
+        "album": "Even in Arcadia",
+        "charter": "Keagan Dunn",
+        "lenght": "7:50",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Alternative",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 4
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Emergence",
+        "year": "2025",
+        "album": "Even in Arcadia",
+        "charter": "Keagan Dunn",
+        "lenght": "6:21",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Alternative",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_drums": 5
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Past Self",
+        "year": "2025",
+        "album": "Even in Arcadia",
+        "charter": "Keagan Dunn",
+        "lenght": "3:36",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Alternative",
+        "playable_levels": {
+            "Guitar": [
+                "Hard",
+                "Expert"
+            ],
+            "Drums": [
+                "Hard",
+                "Expert"
+            ],
+            "Pro Drums": [
+                "Hard",
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1,
+        "diff_drums": 5
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Dangerous",
+        "year": "2025",
+        "album": "Even in Arcadia",
+        "charter": "Keagan Dunn",
+        "lenght": "4:26",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Alternative",
+        "playable_levels": {
+            "Guitar": [
+                "Hard",
+                "Expert"
+            ],
+            "Drums": [
+                "Hard",
+                "Expert"
+            ],
+            "Pro Drums": [
+                "Hard",
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 4
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Caramel",
+        "year": "2025",
+        "album": "Even in Arcadia",
+        "charter": "Keagan Dunn",
+        "lenght": "4:53",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Alternative",
+        "playable_levels": {
+            "Guitar": [
+                "Hard",
+                "Expert"
+            ],
+            "Drums": [
+                "Hard",
+                "Expert"
+            ],
+            "Pro Drums": [
+                "Hard",
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1,
+        "diff_drums": 6
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Provider",
+        "year": "2025",
+        "album": "Even in Arcadia",
+        "charter": "Keagan Dunn",
+        "lenght": "5:46",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Alternative",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 4
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Damocles",
+        "year": "2025",
+        "album": "Even in Arcadia",
+        "charter": "Keagan Dunn",
+        "lenght": "4:26",
+        "video_avail": "False",
+        "lyrics": "False",
+        "genre": "Alternative",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 5
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "The Summoning",
+        "year": "2023",
+        "album": "Take Me Back to Eden",
+        "charter": "Keagan Dunn",
+        "lenght": "6:35",
+        "video_avail": "False",
+        "lyrics": "True",
+        "genre": "Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ],
+            "Pro Drums": [
+                "Expert"
+            ],
+            "Bass": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_bass": 1,
+        "diff_drums": 5
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "<color=#C68E17>Caramel",
+        "year": "2025",
+        "album": "Even In Arcadia",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "4:53",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_drums": 5
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Damocles",
+        "year": "2025",
+        "album": "Even In Arcadia",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "4:25",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_drums": 5
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Dangerous",
+        "year": "2025",
+        "album": "Even In Arcadia",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "4:11",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 4
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Emergence",
+        "year": "2025",
+        "album": "Even In Arcadia",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "6:31",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_drums": 5
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Even In Arcadia",
+        "year": "2025",
+        "album": "Even In Arcadia",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "4:30",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Gethsemane",
+        "year": "2025",
+        "album": "Even In Arcadia",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "6:23",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_drums": 5
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Infinite Baths",
+        "year": "2025",
+        "album": "Even In Arcadia",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "8:27",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_drums": 5
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Look To Windward",
+        "year": "2025",
+        "album": "Even In Arcadia",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "7:51",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 4,
+        "diff_drums": 5
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Past Self",
+        "year": "2025",
+        "album": "Even In Arcadia",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "3:38",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_drums": 3
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Provider",
+        "year": "2025",
+        "album": "Even In Arcadia",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "6:09",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3,
+        "diff_drums": 3
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Atlantic",
+        "year": "2021",
+        "album": "This Place Will Become Your Tomb",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "4:57",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 4
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Blood Sport",
+        "year": "2019",
+        "album": "Sundowning",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "4:05",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 3
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Chokehold (Cover By Will Ramos)",
+        "year": "2023",
+        "album": "Single",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "5:05",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Alternative Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 2
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Dark Signs",
+        "year": "2019",
+        "album": "Sundowning",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "4:32",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 4
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Descending",
+        "year": "2021",
+        "album": "This Place Will Become Your Tomb",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "4:40",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1,
+        "diff_drums": 2
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Distraction",
+        "year": "2021",
+        "album": "This Place Will Become Your Tomb",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "4:29",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1,
+        "diff_drums": 2
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Fall For Me",
+        "year": "2021",
+        "album": "This Place Will Become Your Tomb",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "2:29",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Fields Of Elation",
+        "year": "2016",
+        "album": "One",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "4:37",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 3
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Gods",
+        "year": "2019",
+        "album": "Sundowning",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "3:27",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 5
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Like That",
+        "year": "2021",
+        "album": "This Place Will Become Your Tomb",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "3:39",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 4
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Mine",
+        "year": "2021",
+        "album": "This Place Will Become Your Tomb",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "5:00",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 4
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Missing Limbs",
+        "year": "2021",
+        "album": "This Place Will Become Your Tomb",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "3:23",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 3
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Nazareth",
+        "year": "2017",
+        "album": "Two",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "5:41",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 3
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Rain",
+        "year": "2023",
+        "album": "Take Me Back To Eden",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "4:15",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 4
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Sugar",
+        "year": "2019",
+        "album": "Sundowning",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "4:56",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 5
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Take Aim",
+        "year": "2019",
+        "album": "Sundowning",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "3:42",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progessive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 4
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "Telomeres",
+        "year": "2021",
+        "album": "This Place Will Become Your Tomb",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "5:09",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 6
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "The Apparition",
+        "year": "2023",
+        "album": "Take Me Back To Eden",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "4:28",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 5
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "The Love You Want",
+        "year": "2021",
+        "album": "This Place Will Become Your Tomb",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "4:25",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 2,
+        "diff_drums": 4
+    },
+    {
+        "artist": "Sleep Token",
+        "name": "The Night Does Not Belong To God",
+        "year": "2019",
+        "album": "Sundowning",
+        "charter": "<color=#FF0000>J</color><color=#FF8B00>o</color><color=#E7FF00>M</color><color=#5CFF00>a</color><color=#00FF2E>r</color><color=#00FFB9>t</color><color=#00B9FF>i</color><color=#002EFF>n</color><color=#5C00FF>e</color><color=#E700FF>a</color><color=#FF008B>u",
+        "lenght": "5:07",
+        "video_avail": "True",
+        "lyrics": "True",
+        "genre": "Progressive Metal",
+        "playable_levels": {
+            "Guitar": [
+                "Expert"
+            ],
+            "Drums": [
+                "Expert"
+            ]
+        },
+        "diff_guitar": 1,
+        "diff_drums": 2
     },
     {
         "artist": "All That Remains",
